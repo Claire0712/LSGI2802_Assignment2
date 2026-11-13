@@ -1,0 +1,8 @@
+{
+  "source_features": 465892,
+  "nodes": 1429674,
+  "directed_arcs": 2993247,
+  "weak_components": 497,
+  "sub_decimetre_links": 73,
+  "baseline_model_disconnections": 13
+}

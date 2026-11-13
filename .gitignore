@@ -1,0 +1,16 @@
+# Local environments and Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+# Regenerable large network intermediates
+data/raw/network_full/
+data/processed/network*.npz
+# Local TeX build intermediates
+*.aux
+*.log
+*.out
+*.synctex.gz

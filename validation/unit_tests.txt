@@ -1,0 +1,13 @@
+test_direction (test_graph.GraphChecks.test_direction) ... ok
+test_levels (test_graph.GraphChecks.test_levels) ... ok
+test_parallel_not_sum (test_graph.GraphChecks.test_parallel_not_sum) ... ok
+test_closed (test_hours.Hours.test_closed) ... ok
+test_overnight (test_hours.Hours.test_overnight) ... ok
+test_known (test_metrics.Checks.test_known) ... ok
+test_monotonic (test_metrics.Checks.test_monotonic) ... ok
+test_ties (test_metrics.Checks.test_ties) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.002s
+
+OK

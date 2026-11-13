@@ -1,0 +1,21 @@
+# Analytical environment; no host-specific runtime packages.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.18.1
+geopandas==1.2.0
+shapely==2.2.0
+pyogrio==0.13.0
+pyproj==3.8.0
+matplotlib==3.11.2
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.67.0
+kiwisolver==1.5.1
+packaging==26.3
+pillow==13.0.0
+pyparsing==3.3.3
+python-dateutil==3.0.0
+pytz==2026.6
+tzdata==2026.6
+six==1.17.0
+certifi==2026.10.23

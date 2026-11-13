@@ -1,0 +1,13 @@
+{
+  "source": "https://portal.csdi.gov.hk/server/rest/services/common/censtatd_rcd_1635933365202_19171/MapServer/0",
+  "retrieved_utc": "2026-10-24T14:14:28.395003+00:00",
+  "expected_count": 2342,
+  "files": [
+    {
+      "path": "data/raw/census/page_0000000.json",
+      "records": 2342,
+      "sha256": "3956ffc1e6d27aa7226c92f297d5912530207a8464d16351e20ce62173279a46"
+    }
+  ],
+  "observed_count": 2342
+}

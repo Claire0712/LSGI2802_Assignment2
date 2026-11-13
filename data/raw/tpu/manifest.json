@@ -1,0 +1,18 @@
+{
+  "source": "https://portal.csdi.gov.hk/server/rest/services/common/pland_rcd_1634022783366_65050/MapServer/0",
+  "retrieved_utc": "2026-10-24T14:13:57.074668+00:00",
+  "expected_count": 4916,
+  "files": [
+    {
+      "path": "data/raw/tpu/page_0000000.json",
+      "records": 3000,
+      "sha256": "b1ffff9c29e69f8be4b5456e671be513da03628058d65e94ef93af52c9b18bc4"
+    },
+    {
+      "path": "data/raw/tpu/page_0003000.json",
+      "records": 1916,
+      "sha256": "5e77839e6512f0e507574bd7d23ce9329df1b9975e2fe265639efe72bce827e4"
+    }
+  ],
+  "observed_count": 4916
+}

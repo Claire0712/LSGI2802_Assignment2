@@ -1,0 +1,14 @@
+TPU,component,nodes,nearest_other_component_3d_m,from_node,to_node,interpretation
+162,45,262,7.184411806150125,36669,65251,model disconnection; not verified real-world isolation
+251,445,700,15.314158220465242,1251387,1235850,model disconnection; not verified real-world isolation
+523,339,40,24.79581694568996,827636,827808,model disconnection; not verified real-world isolation
+731,365,295,144.75391217171875,1375923,1046894,model disconnection; not verified real-world isolation
+743,356,2543,10246.94353435651,940265,1173866,model disconnection; not verified real-world isolation
+913,422,1338,82.36930061620389,1176781,1178142,model disconnection; not verified real-world isolation
+933,76,2209,1853.1523371733088,1354705,1020143,model disconnection; not verified real-world isolation
+934,435,15,225.09373824029188,1200890,1200879,model disconnection; not verified real-world isolation
+971,62,550,3.8771176148403024,75072,76335,model disconnection; not verified real-world isolation
+972,480,2,691.8227032744477,1340512,1324404,model disconnection; not verified real-world isolation
+973,263,4201,2.2989999999999995,1299180,1299156,model disconnection; not verified real-world isolation
+974,409,103,48.03304376160702,1163550,1211804,model disconnection; not verified real-world isolation
+975,251,3016,966.2883946261097,575334,574443,model disconnection; not verified real-world isolation

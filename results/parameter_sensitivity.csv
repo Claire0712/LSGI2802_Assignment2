@@ -1,0 +1,8 @@
+type,value,zero_TPUs,median
+threshold,10,208,0.0
+threshold,15,172,0.0
+threshold,20,144,0.0
+threshold,30,114,1.0
+half_life,10,13,0.496330649423989
+half_life,15,13,0.8617777249726728
+half_life,20,13,1.2444210794294919

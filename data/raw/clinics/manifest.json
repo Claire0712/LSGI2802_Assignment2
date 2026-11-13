@@ -1,0 +1,13 @@
+{
+  "source": "https://portal.csdi.gov.hk/server/rest/services/common/fhb_rcd_1637050485482_89683/MapServer/0",
+  "retrieved_utc": "2026-10-24T14:13:52.055032+00:00",
+  "expected_count": 77,
+  "files": [
+    {
+      "path": "data/raw/clinics/page_0000000.json",
+      "records": 77,
+      "sha256": "7620386232a6ea684e25ecdeb9b8758c77b0c5c66321a4475c958d862e653386"
+    }
+  ],
+  "observed_count": 77
+}
