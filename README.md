@@ -1,8 +1,8 @@
-# LSGI2802_Assignment
+# LSGI2802_Assignment2
 
 Walking access to public primary care in Hong Kong — independent LSGI2802 Assignment 2 research repository.
 
-Repository: https://github.com/Claire0712/LSGI2802_Assignment
+Repository: https://github.com/Claire0712/LSGI2802_Assignment2
 
 - [Paper PDF](paper/Assignment2_final.pdf)
 - [Code availability statement for the manuscript](paper/code_availability.tex)
@@ -10,20 +10,20 @@ Repository: https://github.com/Claire0712/LSGI2802_Assignment
 - [Validation records](validation/)
 - [Figures](figures/)
 
-The PDF preserves the final manuscript supplied on 12 November 2026. Its existing code-availability paragraph refers to the earlier ZIP; replace that paragraph with `paper/code_availability.tex` when editing the manuscript. The latest final manuscript LaTeX source was not available locally, so superseded report sources are not included.
+The manuscript source and compiled PDF were synchronized from Overleaf on 13 November 2026. Compile `paper/main.tex` from the `paper/` directory using pdfLaTeX. All referenced figure files are included. The updated paper snapshot is tagged `paper-v1.1`.
 
 ## Reproduce this repository
 
 ```sh
-git clone https://github.com/Claire0712/LSGI2802_Assignment.git
-cd LSGI2802_Assignment
+git clone https://github.com/Claire0712/LSGI2802_Assignment2.git
+cd LSGI2802_Assignment2
 ```
 
 This package preserves the analytical snapshot used to study walking access to public primary care in Hong Kong. It contains the source scripts, unit tests, pinned analytical dependencies, original data downloads, frozen origin–destination (OD) matrices and the reported numerical outputs. The repository is self-contained for offline verification after cloning.
 
 ## Set up Python
 
-Use Python 3.12 from the cloned `LSGI2802_Assignment` directory:
+Use Python 3.12 from the cloned `LSGI2802_Assignment2` directory:
 
 ```sh
 python3.12 -m venv .venv

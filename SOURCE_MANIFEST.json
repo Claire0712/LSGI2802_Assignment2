@@ -1,5 +1,5 @@
 {
-  "scope": "Independent LSGI2802 assignment paper snapshot, repository preparation 13 November 2026; excludes this manifest and Git metadata",
+  "scope": "Independent LSGI2802 Assignment 2 snapshot synchronized with Overleaf on 13 November 2026; excludes this manifest and Git metadata",
   "files": [
     {
       "path": ".gitignore",
@@ -23,8 +23,8 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 9001,
-      "sha256": "ebe4a37a75b6edc04758d5dba688b3071e04bf4fec1a456b2c10633895421923"
+      "size_bytes": 8921,
+      "sha256": "6ea7030f96a0f42e2b22832dbf1dc3771d47f711b43a70b6a307f49f4c5f046b"
     },
     {
       "path": "data/processed/clinic_connectors.csv",
@@ -138,13 +138,38 @@
     },
     {
       "path": "paper/Assignment2_final.pdf",
-      "size_bytes": 2779889,
-      "sha256": "389b9e29e04d97034441d68ce48996fc0d625f485ac7e13f045778507a619cc9"
+      "size_bytes": 2134865,
+      "sha256": "c178b8f453e182cf485e6fd9073be32d005e1ce29a8274c7780a39593f9e9906"
+    },
+    {
+      "path": "paper/accessibility_maps.png",
+      "size_bytes": 1031747,
+      "sha256": "6854a7d8e4f42787f02dac75f7978c3e939ffc0542b111a23bd62b62aea14df0"
     },
     {
       "path": "paper/code_availability.tex",
-      "size_bytes": 420,
-      "sha256": "2637a95156e70ccde1861040ef1bfa78127ebe435c7a3ef5118006046564e353"
+      "size_bytes": 320,
+      "sha256": "09871b61fabd55107024c72d0299a853d3f60e447b7601a624d72e431b9b8423"
+    },
+    {
+      "path": "paper/figures/comparison.png",
+      "size_bytes": 255614,
+      "sha256": "e5e747b5c0fb29711b3383863f50f16347e5bdeaa90af603b135eda5331de1dc"
+    },
+    {
+      "path": "paper/main.tex",
+      "size_bytes": 13716,
+      "sha256": "498a934c798cc8d6d13d2a4ae84698d75005d59ed557d4bd58a693210b2ef34b"
+    },
+    {
+      "path": "paper/route_audit_portrait_page_1.png",
+      "size_bytes": 587426,
+      "sha256": "458eca8e176cc817e162e759975f6c3dd4020302a12396293b780ac774896625"
+    },
+    {
+      "path": "paper/route_audit_portrait_page_2.png",
+      "size_bytes": 614509,
+      "sha256": "b1889a56c5b5895a74d8dd6c8cc588e61c8e6f007890b895a13b63ea87a1cb93"
     },
     {
       "path": "reproduce.py",
